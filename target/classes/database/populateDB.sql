@@ -1,0 +1,1 @@
+INSERT INTO customers VALUES (1, 'Ivan', 'Ivanov', 'Russia, Moscow, Lenina, 55', 10000.00)
